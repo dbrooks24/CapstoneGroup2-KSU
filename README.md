@@ -1,2 +1,9 @@
-# CapstoneGroup2-KSU
-Capstone Group 2 
+# Capstone Project Group 2
+## Project Overview:
+Career exploration tool - High School Students with Cognitive Disabilities
+
+## Clients Request:
+Here is the rationale for the project.  I am a vocational teacher for high school students with special needs - intellectual and multiple disabilities.  Part of my job is to help the students find out what jobs would be a good fit for them to research and determine if they would like it.  Currently there are many interest and skill assessments currently available that my students can not take them independently.  For example, one assessment asks people to rate a variety of statements with strongly dislike, dislike, unsure, like and strongly like.  The first one is cabinet making.  My students do not understand what it takes to build cabinets so they answer dislike or strongly dislike.  If I explain that it means using your hands and tools to put things together, many will change their answers.  So I need to sit with them to explain each one but the catch is that my explanation may not be the way they would understand it so I am inadvertently skewing the results.  
+
+What I want to develop is an assessment that has very simple and easy to understand statements the students with comprehension and processing issues would be able to choose without help.  Then have those results generate a list of careers/jobs that would match those results.  The assessment would include skills, interests, etc to help tease out what they would be good at or might like.  
+If you want to see a version that is too hard for my students you can go to:  https://www.careeronestop.org/toolkit/careers/interest-assessment.aspx Links to an external site.   I want the same type of thing but one that anyone can take independently and get a realistic list of jobs/careers.  
